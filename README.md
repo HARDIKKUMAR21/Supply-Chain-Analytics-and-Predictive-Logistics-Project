@@ -6,8 +6,7 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-**Author:** Aayush  
-**Discipline:** Production and Industrial Engineering (MNNIT)
+
 
 ## 🎯 Project Overview
 This project is a full-stack data architecture designed to optimize warehouse inventory and proactively predict late supply chain deliveries. It transforms raw, disconnected CSV data into an interactive, machine-learning-driven executive control tower. 
@@ -33,6 +32,4 @@ This project is a full-stack data architecture designed to optimize warehouse in
 * `/notebooks` - Step-by-step Jupyter notebooks covering Exploratory Data Analysis (EDA), Clustering, and Predictive Modeling.
 * `/dashboard` - The final Power BI `.pbix` file and supporting DAX measures. 
 
-## 📬 Let's Connect
-I am currently seeking off-campus internship opportunities in Supply Chain and Operations Management for Summer 2026. Let's talk about data-driven logistics!
-* **LinkedIn:** https://www.linkedin.com/in/aayushkrjha/
+
